@@ -11,7 +11,7 @@
             createFirstChild: '创建第一个子节点',
             createLastChild: '创建最后一个子节点',
             update: '更新',
-            'delete': '上传'
+            'delete': '删除'
         },
         messages: {
             onDelete: '你确定删除?',
